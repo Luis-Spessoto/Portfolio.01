@@ -12,7 +12,7 @@ Projeto realizado após concluir o curso "PYTHON 2024 - Sql, Power BI, Pandas, N
 <div align="center">
  <figure>
   <img src="ProjetoFinal/printExcel.png" alt="Imagem Excel"><br>
-  <figcaption>Dados cadastrados enviador para uma planilha excel</figcaption>
+  <figcaption>Dados cadastrados enviados para uma planilha excel</figcaption>
  </figure>
 </div>
 <br>
